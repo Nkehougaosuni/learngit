@@ -5,3 +5,4 @@ Git tracks changes of files.
 Aa
 Creating a new branch is quick.
 stash
+Creating a new branch is quick & simple.
